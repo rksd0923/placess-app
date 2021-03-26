@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/placess-app/static/css/main.80509910.chunk.css",
+    "main.js": "/placess-app/static/js/main.9b7f81ca.chunk.js",
+    "main.js.map": "/placess-app/static/js/main.9b7f81ca.chunk.js.map",
+    "runtime-main.js": "/placess-app/static/js/runtime-main.665c3c6b.js",
+    "runtime-main.js.map": "/placess-app/static/js/runtime-main.665c3c6b.js.map",
+    "static/js/2.3eb0a724.chunk.js": "/placess-app/static/js/2.3eb0a724.chunk.js",
+    "static/js/2.3eb0a724.chunk.js.map": "/placess-app/static/js/2.3eb0a724.chunk.js.map",
+    "index.html": "/placess-app/index.html",
+    "precache-manifest.b87aa64cf52d7cb968a6d77db7cc64fd.js": "/placess-app/precache-manifest.b87aa64cf52d7cb968a6d77db7cc64fd.js",
+    "service-worker.js": "/placess-app/service-worker.js",
+    "static/css/main.80509910.chunk.css.map": "/placess-app/static/css/main.80509910.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.665c3c6b.js",
+    "static/js/2.3eb0a724.chunk.js",
+    "static/css/main.80509910.chunk.css",
+    "static/js/main.9b7f81ca.chunk.js"
+  ]
+}
